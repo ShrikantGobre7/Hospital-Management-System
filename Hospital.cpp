@@ -1,14 +1,4 @@
-//Latest Version downloaded on 8th Aug. 2021
-
 /*
-	Mini Project For Sem 2(Batch 2024), PCCOE
-	Title:	Hospital Records Manager
-	Team Members:	Shyam Sundar Tiwari
-					Sumit Tekan
-					Shirkant Gobre
-					Mayur Tambe
-
-
 	Project Info:
 		This program can maintain the record of patients. This program is log-in based and password-protected.
 		Option to change password is in the main menu.
@@ -17,10 +7,7 @@
 
 		This program is intended to be used by the hospital staff who maintain Patient Records.
 */
-//
-//New problems
-//[RESOLVED]Admin import backup not working properly
-//
+
 //PROGRAM BEGINS HERE
 ////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
